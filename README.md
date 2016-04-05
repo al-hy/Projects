@@ -2,7 +2,7 @@
 
 Sorting Algorithm Project
 
-This project asked us to implement four types of sorting algorithms into our program. Unsorted arrays of size 10^i, for i = 1 … k are passed into each sorting class, and the output should be an array that is sorted.  
+This project implements four types of sorting algorithms into our program. Unsorted arrays of size 10^i, for i = 1 … k are passed into each sorting class, and the output should be an array that is sorted.  
 
 The algorithms used were Heap Sorting, Merge Sorting, Quick Sorting, and Insertion Sorting. 
 I found that Insertion sorting takes the longest to sort in worst case because it has a property of O(n^2), for n is the number of elements in the array. Also, heap sorting and quick sorting I found were easier to sort in-place compared to merge sorting. 
