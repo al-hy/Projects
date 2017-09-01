@@ -1,5 +1,4 @@
-//Adrian Hy
-//CS 241 - Project #3
+
 
 
 public class QuickSort implements SortAlgorithm
